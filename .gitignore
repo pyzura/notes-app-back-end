@@ -1,0 +1,5 @@
+.idea
+node_modules
+.env
+.prod.env
+notes-app-back-end/src/api/uploads/file
